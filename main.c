@@ -18,7 +18,7 @@ void tambahDataPasien(struct pasienKlinik data[], int n);
 void menu();
 
 struct pasienKlinik pasien[MAX] = {
-    {101, "Ahmad fauzi", 45, "Diabetes"},
+    {101, "Ahmad fauziah", 45, "Diabetes"},
     {102, "Siti Nurhaliza", 30, "Demam Berdarah"},
     {103, "Budi Susanto", 25, "Flu dan batuk"},
     {104, "Lestari Wulandari", 43, "Hipertensi"},
